@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\Registro de Datos v1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\Registro de Datos v1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\Registro de Datos v1.csproj",
+        "projectName": "Registro de Datos v1",
+        "projectPath": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\Registro de Datos v1.csproj",
+        "packagesPath": "C:\\Users\\Lia Calderon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lia Calderon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

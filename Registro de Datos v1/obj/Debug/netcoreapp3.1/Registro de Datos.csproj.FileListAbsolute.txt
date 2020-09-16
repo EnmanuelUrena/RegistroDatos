@@ -1,0 +1,13 @@
+C:\Users\Lia Calderon\Desktop\Registro de Datos\bin\Debug\netcoreapp3.1\Registro de Datos.exe
+C:\Users\Lia Calderon\Desktop\Registro de Datos\bin\Debug\netcoreapp3.1\Registro de Datos.deps.json
+C:\Users\Lia Calderon\Desktop\Registro de Datos\bin\Debug\netcoreapp3.1\Registro de Datos.runtimeconfig.json
+C:\Users\Lia Calderon\Desktop\Registro de Datos\bin\Debug\netcoreapp3.1\Registro de Datos.runtimeconfig.dev.json
+C:\Users\Lia Calderon\Desktop\Registro de Datos\bin\Debug\netcoreapp3.1\Registro de Datos.dll
+C:\Users\Lia Calderon\Desktop\Registro de Datos\bin\Debug\netcoreapp3.1\Registro de Datos.pdb
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.csprojAssemblyReference.cache
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.AssemblyInfoInputs.cache
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.AssemblyInfo.cs
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.csproj.CoreCompileInputs.cache
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.dll
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.pdb
+C:\Users\Lia Calderon\Desktop\Registro de Datos\obj\Debug\netcoreapp3.1\Registro de Datos.genruntimeconfig.cache

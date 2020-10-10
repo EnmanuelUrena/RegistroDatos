@@ -1,3 +1,4 @@
-001,Enmanuel,Urena,18
-002,Manuel,Aponte,19
-003,Luis,Martinez,20
+Cedula,Nombre,Apellido,Datos,Monto,Password
+001,Enmanuel,Urena,288,500,123
+002,Pablo,Diaz,406,25,123
+003,Maria,Pozo,655,5000.50,123

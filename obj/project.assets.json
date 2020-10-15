@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\Registro de Datos v1.csproj",
-      "projectName": "Registro de Datos v1",
-      "projectPath": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\Registro de Datos v1.csproj",
+      "projectUniqueName": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos\\Registro de Datos v5\\Registro de Datos v5.csproj",
+      "projectName": "Registro de Datos v5",
+      "projectPath": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos\\Registro de Datos v5\\Registro de Datos v5.csproj",
       "packagesPath": "C:\\Users\\Lia Calderon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos v1\\obj\\",
+      "outputPath": "C:\\Users\\Lia Calderon\\Desktop\\Proyectos\\Registro de Datos\\Registro de Datos v5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lia Calderon\\AppData\\Roaming\\NuGet\\NuGet.Config",

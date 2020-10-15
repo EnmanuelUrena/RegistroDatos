@@ -1,0 +1,13 @@
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\bin\Debug\netcoreapp3.1\Registro de Datos v5.exe
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\bin\Debug\netcoreapp3.1\Registro de Datos v5.deps.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\bin\Debug\netcoreapp3.1\Registro de Datos v5.runtimeconfig.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\bin\Debug\netcoreapp3.1\Registro de Datos v5.runtimeconfig.dev.json
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\bin\Debug\netcoreapp3.1\Registro de Datos v5.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\bin\Debug\netcoreapp3.1\Registro de Datos v5.pdb
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.csprojAssemblyReference.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.AssemblyInfoInputs.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.AssemblyInfo.cs
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.csproj.CoreCompileInputs.cache
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.dll
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.pdb
+C:\Users\Lia Calderon\Desktop\Proyectos\Registro de Datos\Registro de Datos v5\obj\Debug\netcoreapp3.1\Registro de Datos v5.genruntimeconfig.cache

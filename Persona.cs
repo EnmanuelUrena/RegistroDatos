@@ -27,6 +27,10 @@ namespace Registro_Official
             Monto = monto;
             Password = password;
         }
+        public Persona()
+        {
+            
+        }
         public static void GuardarPersona(Persona persona,string args)
         {
             using(StreamWriter file = new StreamWriter(args, true))
